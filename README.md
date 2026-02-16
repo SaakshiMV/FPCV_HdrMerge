@@ -5,6 +5,7 @@ Interactive HDR Image Merge with simulated exposures and tone mapping.
 Merge multiple exposures from a single image into HDR and visualize the results with **Streamlit**.
 
 ---
+<img width="1780" height="369" alt="image" src="https://github.com/user-attachments/assets/40e3cc7f-8f5e-458b-8b50-fb8e3326aa7f" />
 
 ## **Features**
 
